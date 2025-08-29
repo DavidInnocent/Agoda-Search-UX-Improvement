@@ -31,6 +31,12 @@ This project proposes a **better approach**:
 - Calendar component that highlights dates with available properties.
 - Real-time integration with backend APIs.
 - Clean UI inspired by Agoda's booking flow.
+- [Frontend Repository](https://github.com/YourUsername/BookingCalendarBackend)
+
+## Demo Video
+
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/da76044642f44b6798ecde29e3780fa4-with-play.gif)](https://www.loom.com/share/da76044642f44b6798ecde29e3780fa4)
+
 
 ## Tech Stack
 - **Backend:** Spring Boot, JPA, Hibernate, REST APIs, Maven.
