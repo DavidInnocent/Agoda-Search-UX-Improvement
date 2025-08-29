@@ -35,7 +35,7 @@ This project proposes a **better approach**:
 
 ## Demo Video
 
-[![Watch the demo](https://res.cloudinary.com/ximmoz-corp/image/upload/v1714658109/firefy/plus.png)](https://www.loom.com/share/da76044642f44b6798ecde29e3780fa4)
+[![Watch the demo](https://res.cloudinary.com/ximmoz-corp/image/upload/v1756469985/fe77d91f-172d-4c90-8e32-bc7e9fba1156.png)](https://www.loom.com/share/da76044642f44b6798ecde29e3780fa4)
 
 
 ## Tech Stack
